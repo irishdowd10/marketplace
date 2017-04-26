@@ -1,0 +1,19 @@
+.receipt {
+  display: none;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  border-bottom: 5px solid lightgrey;
+
+}
+
+.container {
+  border: 2px solid red;
+  padding: 20px;
+}
